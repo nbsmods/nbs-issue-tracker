@@ -1,0 +1,43 @@
+name: Inaccuracy
+description: Report an inaccuracy compared to the official server
+title: "Report an inaccuracy"
+labels: ["inaccuracy"]
+
+body:
+  - type: checkboxes
+    attributes:
+      label: Before you submit...
+      description: "We need to know if this issue is in scope, please use the checklist below:"
+      options:
+        - label: "I have checked the feature has been marked as done in the progress tracker (see readme)"
+          required: true
+        - label: "I am using the latest version of NBS (v59 and v64 are no longer supported)"
+          required: true
+        - label: "I have searched the existing issues"
+          required: true
+        - label: "I ticked the above checkboxes without actually checking them"
+          required: false
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting an issue!
+        Please give a basic overview on the issue below
+        Images and videos aren't required, but are appreciated
+  - type: textarea
+    id: our-behaviour
+    attributes:
+      label: What are we doing?
+      description: What happens in our mod that's incorrect, if possible include images / videos.
+      placeholder: Tell us what you see!
+      value: "Current behaviour:"
+    validations:
+      required: true
+  - type: textarea
+    id: prod-behaviour
+    attributes:
+      label: What does the official server do?
+      description: What happens on the official server, if possible include images / videos.
+      placeholder: Tell us what you see!
+      value: "Expected behaviour:"
+    validations:
+      required: true
