@@ -1,6 +1,7 @@
 # nbs-issue-tracker
 
 The public issue and progress tracker for NBS
+
 To begin, please select a form [here](https://github.com/nbsmod/nbs-issue-tracker/issues/new/choose)
 
 ## Contents
