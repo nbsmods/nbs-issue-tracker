@@ -121,6 +121,8 @@ To begin, please select a form [here](https://github.com/nbsmod/nbs-issue-tracke
 <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/f6f62280-9faf-42bd-9ba1-060d950a253e" /> | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/ad230a9b-7c70-4516-8f6a-1c27248b6fd7" /> | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/dea38009-88f0-43a7-855e-336451373e44" /> | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+<img width="50" height="50" alt="Nori" src="" /> | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+<img width="50" height="50" alt="Wendy" src="" /> | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 
 ## Game modes
 
@@ -188,6 +190,10 @@ Normal:
 - [ ] BrawlBallV2
 - [ ] MegaBoss5P
 - [ ] LoadedDuoShowdown
+- [ ] Cooking
+- [ ] MechaVan
+- [ ] CoopCooking
+- [ ] HunterSurvivor
 
 
 Disabled:
