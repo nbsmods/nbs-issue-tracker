@@ -129,7 +129,7 @@ To begin, please select a form [here](https://github.com/nbsmod/nbs-issue-tracke
 Normal:
 - [x] GemGrab
 - [ ] Heist
-- [ ] Bounty
+- [x] Bounty
 - [ ] BrawlBall
 - [ ] Showdown
 - [ ] BigGame
