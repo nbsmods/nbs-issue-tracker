@@ -9,7 +9,7 @@ body:
       label: Before you submit...
       description: "We need to know if this issue is in scope, please use the checklist below:"
       options:
-        - label: "I have checked the feature has been marked as done in the progress tracker (see readme)"
+        - label: "I have checked the feature has been marked as done in the progress tracker (If applicable, see readme. Note for modders: csv columns don't count)"
           required: true
         - label: "I am using the latest version of NBS (v59 and v64 are no longer supported)"
           required: true

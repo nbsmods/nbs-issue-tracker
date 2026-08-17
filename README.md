@@ -4,6 +4,14 @@ The public issue and progress tracker for NBS
 
 To begin, please select a form [here](https://github.com/nbsmod/nbs-issue-tracker/issues/new/choose)
 
+### For modders:
+
+See also the csv wiki, which tracks what columns we have implemented.
+
+If a csv is missing, it means either we haven't implemented it, or it has no effect on game logic.
+
+If a column is marked done, but behaving incorrectly please make an issue.
+
 ## Contents
 
 - [Brawlers](#brawlers)
@@ -193,7 +201,6 @@ Normal:
 - [ ] Cooking
 - [ ] MechaVan
 - [ ] CoopCooking
-- [ ] HunterSurvivor
 
 
 Disabled:
@@ -212,57 +219,87 @@ Disabled:
 Unused:
 - [ ] ReachExit (Will be implemented at some point)
 - [ ] Swarm
+- [ ] HunterSurvivor (probably not possible)
 
 ## Modifiers
 
 Regular Modifiers:
-- [ ] Meteor Shower
+- [x] No Modifiers
 - [ ] Energy Drink
 - [ ] Angry Robo
-- [ ] Healing Mushrooms
+- [ ] Meteor Shower
 - [ ] Graveyard Shift
+- [ ] Healing Mushrooms
 - [ ] Tilt
-- [ ] Peek-a-Boo
-- [ ] Fast Brawlers
 - [ ] Super Charge
-- [ ] Showdown+
-- [ ] Easter Eggs
-- [ ] Save the Frogs
-- [ ] Top Dog
-- [ ] Hyper Drop
-- [ ] Instagib
-- [ ] Subway Supers
+- [ ] Fast Brawlers
+- [ ] Peek-a-Boo
 - [ ] Collect Coins
-- [ ] Wandering Finish
-- [ ] Fog of War
-- [ ] Slow Bullets
-- [ ] Sandstorms
+- [ ] Top Dog
 - [ ] Super Bushy
-- [ ] Instant Overtime
 - [ ] Unlimited Power
+- [ ] Timed Detonation
+- [x] Classic
 - [ ] Ice Age
 - [ ] Toxic Arena
 - [ ] Devastation Cloud
+- [ ] Hyper Drop
 - [ ] Sick Beats
-- [ ] Timed Detonation
+- [ ] Barbed Ammo
 - [ ] Quickfire
 - [ ] Big Friend
-- [ ] Barbed Ammo
+- [ ] Always Hypercharged
 - [ ] Second Wind
-- [ ] Healing Breeze
+- [ ] Instagib
 - [ ] Gotta Go Fast
+- [ ] Healing Breeze
 - [ ] Momentum
+- [ ] Arcade
+- [ ] Wandering Finish
+- [ ] Friendly Fire
+- [ ] Loaded Walls
+- [ ] Fog of War
+- [ ] Slow Bullets
+- [ ] Sandstorms
+- [ ] Power Of Friendship
+- [ ] Doppelgangers
+
 
 GM Exclusive:
+- [ ] Showdown+
 - [ ] Card Decks
-- [ ] Extra Ball
-- [ ] Burning Ball
+
 
 Removed?:
 - [ ] Wasabi Powers
 - [ ] Chaos
 - [ ] SpongeBob
 - [ ] Mutations
+- [ ] Subway Supers
+- [ ] ~~Gadgets Galore~~
+- [ ] Nova Crystal
+- [ ] Nova Crystal+
+- [ ] Starr Nova Crystal
+- [ ] Starr Nova Crystal+
+- [ ] Nova Crystal Mayhem
+- [ ] Nanopowered
+- [ ] Fusions
+- [ ] NanoTech Fog
+- [ ] Easter Eggs
+- [ ] Save the Frogs
+- [ ] Instant Overtime
+
+No/weird TID:
+- [ ] ??? (49, BH) - Banaanae note, BigHealth?
+- [ ] ??? (53, BigWeapon)
+- [ ] (Placeholder) (SpeedEXP)
+- [ ] GhostRespawn
+- [ ] QaGladiatorArenaExtended
+
+Brawl Ball:
+- [ ] Haunted Ball
+- [ ] Extra Ball
+- [ ] Burning Ball
 
 Takedown Modifiers:
 - [ ] Boss Lasers
