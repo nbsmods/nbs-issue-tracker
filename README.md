@@ -2,6 +2,8 @@
 
 The public issue and progress tracker for NBS
 
+Please note: at this time we are only accepting bug reports for brawlers we have marked as done, please ensure you follow the checklist when reporting a bug
+
 To begin, please select a form [here](https://github.com/nbsmod/nbs-issue-tracker/issues/new/choose)
 
 ### For modders:
@@ -256,7 +258,7 @@ Regular Modifiers:
 - [ ] Momentum
 - [ ] Arcade
 - [ ] Wandering Finish
-- [ ] Friendly Fire
+- [x] Friendly Fire
 - [ ] Loaded Walls
 - [ ] Fog of War
 - [ ] Slow Bullets
@@ -270,7 +272,7 @@ GM Exclusive:
 - [ ] Card Decks
 
 
-Removed?:
+Possibly version specific:
 - [ ] Wasabi Powers
 - [ ] Chaos
 - [ ] SpongeBob
@@ -290,7 +292,7 @@ Removed?:
 - [ ] Instant Overtime
 
 No/weird TID:
-- [ ] ??? (49, BH) - Banaanae note, BigHealth?
+- [ ] ??? (49, BH) - Banaanae note: BigHead
 - [ ] ??? (53, BigWeapon)
 - [ ] (Placeholder) (SpeedEXP)
 - [ ] GhostRespawn

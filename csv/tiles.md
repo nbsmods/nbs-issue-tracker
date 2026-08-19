@@ -1,0 +1,19 @@
+# tiles
+- [x] TileCode
+- [ ] DynamicCode
+- [x] BlocksMovement
+- [x] BlocksProjectiles
+- [x] IsDestructible
+- [x] IsDestructibleNormalWeapon
+- [ ] IsDestructibleOvertime
+- [ ] IsBouncer
+- [x] IsForest
+- [ ] Damage
+- [ ] Health
+- [ ] HealthStates
+- [ ] HealthChangeEffect
+- [ ] SpeedChange
+- [ ] RestoreAfterDynamicOverlap
+- [ ] RespawnSeconds
+- [ ] CollisionMargin
+- [ ] Lifetime

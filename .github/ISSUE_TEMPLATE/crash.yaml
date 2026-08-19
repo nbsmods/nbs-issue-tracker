@@ -1,0 +1,69 @@
+name: Crash
+description: Report a crash unrelated to specific brawlers
+title: "Report a crash"
+labels: ["crash"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Notice
+        I acknowledge that this form is intended for crash bugs unrelated to specific brawlers, if applicable, try Shelly on gem grab.
+        Images and videos aren't required, but are appreciated
+  - type: checkboxes
+    attributes:
+      label: Before you submit...
+      description: "We need to know if this issue is in scope, please use the checklist below:"
+      options:
+        - label: "I acknowledge the above notice, and confirm that this issue follows it"
+          required: true
+        - label: "I am using the latest version of NBS (v59 and v64 are no longer supported)"
+          required: true
+        - label: "I have searched the existing issues"
+          required: true
+        - label: "I ticked the above checkboxes without actually checking them"
+          required: false
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting an issue!
+        If you have adb please complete the last box, it will significantly assist with debugging
+  - type: textarea
+    id: steps
+    attributes:
+      label: What causes the crash?
+      description: Please include all the steps required.
+      placeholder: Tell us what you see!
+      value: |
+        Steps:
+        1. Open debug menu
+        2. Press crash game
+    validations:
+      required: true
+  - type: textarea
+    id: device
+    attributes:
+      label: What device are you using?
+      description: Brand, model, os version, or any other useful info
+      placeholder: Device info
+      value: |
+        Brand: 
+        Device: 
+        OS Version: 
+        Any other useful info:
+    validations:
+      required: true
+  - type: textarea
+    id: adb
+    attributes:
+      label: ADB info
+      description: |
+        If you have adb set up, please follow these steps to assist in debugging:
+        Please not this only applies to crashes, hangs can skip this
+        1. Connect device and run `adb logcat -c`
+        2. Follow the steps you wrote out above to cause the crash
+        3. Run `adb logcat *:F`, and paste output into box below
+      placeholder: Device info
+      value: "ADB crash dump:"
+    validations:
+      required: true

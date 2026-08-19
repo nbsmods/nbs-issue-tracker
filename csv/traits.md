@@ -1,0 +1,17 @@
+# traits
+- [ ] ServerOnly
+- [ ] NeverRemove
+- [ ] Stackable
+- [ ] Type
+- [ ] Value
+- [ ] Projectile
+- [ ] AreaEffect
+- [ ] Character
+- [ ] Skill
+- [ ] StatusEffect
+- [ ] Item
+- [ ] Components
+- [ ] OverchargeActive
+- [ ] SpawnedObjectDamage
+- [ ] SpawnedObjectRange
+- [ ] BooleanAttributes

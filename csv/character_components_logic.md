@@ -1,0 +1,13 @@
+# character_components_logic
+- [ ] Values
+- [ ] BoolValues
+- [ ] Projectiles
+- [ ] AreaEffects
+- [ ] Characters
+- [ ] Skills
+- [ ] StatusEffects
+- [ ] StatusEffectsOvercharged
+- [ ] Items
+- [ ] Traits
+- [ ] TraitsOvercharged
+- [ ] BooleanAttributes

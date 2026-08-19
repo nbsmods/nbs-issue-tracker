@@ -1,0 +1,23 @@
+# cards
+- [ ] LinkedCard
+- [x] Target
+- [ ] TargetClassArchetype
+- [x] MetaType
+- [x] Type
+- [ ] SubType
+- [ ] Skill
+- [ ] Value
+- [ ] Value2
+- [ ] Value3
+- [ ] Value4
+- [ ] Value5
+- [ ] Value6
+- [ ] BooleanAttributes
+- [ ] StatusEffect
+- [ ] StatusEffectOvercharged
+- [ ] AreaEffect
+- [ ] Projectiles
+- [ ] Traits
+- [ ] Components
+- [ ] RogueliteDeck
+- [ ] Buddies
