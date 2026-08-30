@@ -22,60 +22,64 @@ If a column is marked done, but behaving incorrectly please make an issue.
 
 ## Brawlers
 
+✔ - Implemented, may not be perfect
+\* - Noticeable issues, feel free to make an issue describing what exactly is wrong
+✘ - Not done, not accepting issues (this is to prevent the issue tracker from being flooded)
+
 <!-- ✔✘ -->
 | Brawler | <img width="50" height="50" alt="aim" src="https://media.ffycdn.net/eu/supercell/WqMN4ujMDHtg5SkXk8dT.png?width=300" /> | <img width="50" height="50" alt="super" src="https://media.ffycdn.net/eu/supercell/QxEL8yYxnLVew3p3TYXz.png?width=300" /> | <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/f5b6cc3e-e301-48fb-91c6-5293b2b0be1e" /> | <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/c0498061-60a2-4684-9a34-1e8cec387920" /> | <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/2c9f10a6-ae94-4a0e-ba54-feeecad9cee4" /> | <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/aece9947-e509-4e63-8a92-6190a39907c6" /> | <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/6cd2caf4-1da5-45b3-b886-58f93da0ed89" /> | <img width="50" height="65" alt="Image" src="https://github.com/user-attachments/assets/ec063bc2-02d7-4505-b68f-358aaafc5d08" /> |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-Shelly | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Nita | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Colt | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Bull | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Brock | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-El Primo | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Barley | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Poco | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Rosa | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Shelly | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Nita | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Colt | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Bull | ✔ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Brock | ✔ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+El Primo | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Barley | ✔ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Poco | ✔ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Rosa | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Jessie | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Dynamike | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Dynamike | ✔* | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Tick | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-8-Bit | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+8-Bit | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Rico | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Darryl | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Darryl | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Penny | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Carl | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Jacky | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Gus | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Bo | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Carl | ✔ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Jacky | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Gus | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Bo | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Emz | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Stu | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Piper | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Stu | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Piper | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Pam | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Frank | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Frank | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Bibi | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Bea | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Nani | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Edgar | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Griff | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Edgar | ✘ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Griff | ✔ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Grom | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Bonnie | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Bonnie | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Gale | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Colette | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Belle | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Ash | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Lola | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Sam | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Mandy | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Maisie | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Sam | ✔ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Mandy | ✔ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Maisie | ✘ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Hank | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Pearl | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Pearl | ✘ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Larry & Lawrie | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Angelo | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Berry | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Angelo | ✘ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Berry | ✘ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Shade | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Meeple | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Meeple | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Trunk | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Bolt | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Mortis | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Tara | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Tara | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Gene | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Max | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Mr. P | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
@@ -89,23 +93,23 @@ Fang | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Eve | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Janet | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Otis | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Buster | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Gray | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Buster | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Gray | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 R-T | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Willow | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Doug | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Chuck | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Charlie | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Chuck | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Charlie | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Mico | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Melodie | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Lily | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Clancy | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Lily | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Clancy | ✔* | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Moe | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Juju | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Ollie | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Finx | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Juju | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Ollie | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Lumi | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Jae-yong | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Finx | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Jae-yong | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Alli | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Mina | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Ziggy | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
@@ -113,18 +117,18 @@ Gigi | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Glowy | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Najia | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Damian | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Starr Nova | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Starr Nova | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Wendy | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Spike | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Crow | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Leon | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Sandy | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Amber | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Leon | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Sandy | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Amber | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Meg | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Surge | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Chester | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Cordelius | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Kit | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Chester | ✘ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Cordelius | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Kit | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Draco | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Kenji | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Pierce | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
