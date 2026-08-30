@@ -1,6 +1,6 @@
-name: Inaccuracy
+name: "Inaccuracy or brawler / hero crash"
 description: Report an inaccuracy compared to the official server
-title: "Report an inaccuracy"
+title: "Inaccuracy: "
 labels: ["inaccuracy"]
 
 body:
@@ -27,7 +27,9 @@ body:
     id: our-behaviour
     attributes:
       label: What are we doing?
-      description: What happens in our mod that's incorrect, if possible include images / videos.
+      description: |
+        What happens in our mod that's incorrect, if possible include images / videos.
+        Please include a steps to reproduce if required.
       placeholder: Tell us what you see!
       value: "Current behaviour:"
     validations:
@@ -36,8 +38,19 @@ body:
     id: prod-behaviour
     attributes:
       label: What does the official server do?
-      description: What happens on the official server, if possible include images / videos.
+      description: |
+        What happens on the official server, if possible include images / videos.
+        Not required for crashes on the loading screen.
       placeholder: Tell us what you see!
       value: "Expected behaviour:"
     validations:
       required: true
+  - type: textarea
+    id: info
+    attributes:
+      label: Any additional info?
+      description: |
+        Anything that may be useful for debugging.
+        Most applicable for NBS devs creating issues here.
+      placeholder: "N/A"
+      value: "Additional Info:"
