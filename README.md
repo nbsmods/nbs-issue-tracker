@@ -119,6 +119,8 @@ Najia | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Damian | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Starr Nova | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Wendy | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Cosmo | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Vince | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Spike | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Crow | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Leon | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
@@ -134,7 +136,7 @@ Kenji | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Pierce | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Nori | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Kaze | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Sirius | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Sirius | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 
 ## Game modes
 
@@ -205,6 +207,8 @@ Normal:
 - [ ] Cooking
 - [ ] MechaVan
 - [ ] CoopCooking
+- [ ] HunterSurvivor (probably not possible)
+- [ ] MegaBoss20P
 
 
 Disabled:
@@ -223,7 +227,6 @@ Disabled:
 Unused:
 - [ ] ReachExit (Will be implemented at some point)
 - [ ] Swarm
-- [ ] HunterSurvivor (probably not possible)
 
 ## Modifiers
 
@@ -267,6 +270,8 @@ Regular Modifiers:
 - [ ] Sandstorms
 - [ ] Power Of Friendship
 - [ ] Doppelgangers
+- [ ] Prop Hunt
+- [ ] ELIMINATION
 
 
 GM Exclusive:
