@@ -35,7 +35,7 @@ Colt | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Bull | ✔ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Brock | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 El Primo | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Barley | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Barley | ✔ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Poco | ✔ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Rosa | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Jessie | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
@@ -142,13 +142,13 @@ Sirius | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 
 Normal:
 - [x] GemGrab
-- [ ] Heist
+- [x] Heist (no shield)
 - [x] Bounty
 - [ ] BrawlBall
-- [ ] Showdown
-- [ ] BigGame
+- [x] Showdown
+- [x] BigGame
 - [ ] RoboRumble
-- [ ] DuoShowdown
+- [x] DuoShowdown
 - [ ] BossFight
 - [ ] Siege
 - [ ] Takedown
@@ -159,27 +159,27 @@ Normal:
 - [ ] BasketBrawl
 - [ ] VolleyBrawl
 - [ ] TagTeam
-- [ ] Deathmatch
+- [x] Deathmatch
 - [ ] Payload
 - [ ] Invasion
 - [ ] DeathmatchFFA
 - [ ] LastStand
 - [ ] Deathmatch5v5
 - [ ] BrawlBall5v5
-- [ ] GemGrab5v5
+- [x] GemGrab5v5
 - [ ] Extraction
 - [ ] Knockout5v5
 - [ ] PaintBall
-- [ ] TrioShowdown
+- [x] TrioShowdown
 - [ ] KillConfirmed
 - [ ] JellyCatch
 - [ ] AirHockey
-- [ ] GemGrab2v2
+- [x] GemGrab2v2
 - [ ] PayloadSingle
 - [ ] Arena
 - [ ] BrawlBall2v2
 - [ ] Knockout2v2
-- [ ] KingOfHill2v2
+- [x] KingOfHill2v2
 - [ ] BasketBrawl2v2
 - [ ] AirHockey2v2
 - [ ] PayloadSingle2v2
@@ -207,12 +207,12 @@ Normal:
 - [ ] Cooking
 - [ ] MechaVan
 - [ ] CoopCooking
-- [ ] HunterSurvivor (probably not possible)
+- [ ] HunterSurvivor
 - [ ] MegaBoss20P
 
 
 Disabled:
-- [ ] LoneStar
+- [x] LoneStar
 - [ ] BossFight_TownCrush
 - [ ] ProtectKing
 - [ ] Godzilla_TownCrush
