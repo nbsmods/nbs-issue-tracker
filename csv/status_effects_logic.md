@@ -1,6 +1,6 @@
 # status_effects_logic
-- [ ] DurationTicks
-- [ ] GradualWearOffAfter
+- [x] DurationTicks
+- [x] GradualWearOffAfter
 - [ ] CancelOnDamage
 - [ ] CancelOnCharge
 - [ ] CancelOnChargeEnd
@@ -8,11 +8,11 @@
 - [ ] CancelOnSourceDeath
 - [ ] TriggerRate
 - [ ] TriggerOnFirstTick
-- [ ] Stacking
-- [ ] Refreshable
+- [x] Stacking
+- [x] Refreshable
 - [ ] PulsatingActiveTicksOn
 - [ ] PulsatingActiveTicksOff
-- [ ] Damage
+- [x] Damage
 - [ ] DamageHealSource
 - [ ] UltiChargePercent
 - [ ] UltiChargeBoostPercent

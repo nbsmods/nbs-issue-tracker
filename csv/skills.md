@@ -1,48 +1,49 @@
 # skills
-- [ ] EquipType
-- [ ] OverchargedVersion
-- [ ] CanMoveAtSameTime
+- [x] BehaviorType
+- [x] EquipType
+- [x] OverchargedVersion
+- [x] CanMoveAtSameTime
 - [ ] Targeted
 - [ ] AutoAttackTargetingType
 - [ ] AttackFacing
-- [ ] Cooldown
+- [x] Cooldown
 - [ ] BonusSkillCooldown
-- [ ] ActiveTime
-- [ ] CastingTime
-- [ ] CastingRange
+- [x] ActiveTime
+- [x] CastingTime
+- [x] CastingRange
 - [ ] RangeVisual
 - [ ] RangeInputScale
 - [ ] MaxCastingRange
-- [ ] AllowAimOutsideMap
-- [ ] ForceValidTile
-- [ ] RechargeTime
-- [ ] MaxCharge
-- [ ] Damage
+- [x] AllowAimOutsideMap
+- [x] ForceValidTile
+- [x] RechargeTime
+- [x] MaxCharge
+- [x] Damage
 - [ ] DamageForUlti
 - [ ] PercentDamage
-- [ ] MsBetweenAttacks
-- [ ] Spread
-- [ ] AttackPattern
-- [ ] NumBulletsInOneAttack
+- [x] MsBetweenAttacks
+- [x] Spread
+- [x] AttackPattern
+- [x] NumBulletsInOneAttack
 - [ ] TwoGuns
-- [ ] ExecuteFirstAttackImmediately
+- [x] ExecuteFirstAttackImmediately
 - [ ] MovementSpeed
-- [ ] ChargePushback
+- [x] ChargePushback
 - [ ] OverchargedChargePushback
-- [ ] ChargeSpeed
-- [ ] ChargeType
-- [ ] NumSpawns
-- [ ] MaxSpawns
+- [x] ChargeSpeed
+- [x] ChargeType
+- [x] NumSpawns
+- [x] MaxSpawns
 - [ ] BreakInvisibilityOnAttack
 - [ ] SeeInvisibilityDistance
 - [ ] AlwaysCastAtMaxRange
 - [ ] RestrictCastOnSkillActive
-- [ ] Projectiles
-- [ ] OverchargedProjectiles
+- [x] Projectiles
+- [x] OverchargedProjectiles
 - [ ] OverchargedChainProjectile
-- [ ] SummonedCharacters
+- [x] SummonedCharacters
 - [ ] OverchargedSummonedCharacters
-- [ ] AreaEffectObject
+- [x] AreaEffectObject
 - [ ] DontTriggerAreaAtEndOfCharge
 - [ ] AreaEffectObject2
 - [ ] AreaEffect2AtEndOfCharge
@@ -53,7 +54,7 @@
 - [ ] MeleeAttackOnHitActions
 - [ ] ConsumableShieldValue
 - [ ] ConsumableShieldTicks
-- [ ] SpawnedItem
+- [x] SpawnedItem
 - [ ] OverchargedSpawnedItem
 - [ ] SpawnItemTriggerType
 - [ ] ButtonSWF
@@ -74,14 +75,14 @@
 - [ ] ChargeMoveSound
 - [ ] MultiShot
 - [ ] SkillChangeType
-- [ ] SecondarySkill
-- [ ] SecondarySkill2
-- [ ] SecondarySkill3
-- [ ] SecondarySkill4
+- [x] SecondarySkill
+- [x] SecondarySkill2
+- [x] SecondarySkill3
+- [x] SecondarySkill4
 - [ ] ShowTimerBar
 - [ ] ChargedShotCount
 - [ ] DamageModifier
-- [ ] HoldToShoot
+- [x] HoldToShoot
 - [ ] UsableInShadowRealm
 - [ ] HealSelfOnActivationType
 - [ ] HealSelfOnActivationPower
@@ -91,11 +92,11 @@
 - [ ] OnChargeHitStatusEffect
 - [ ] OnChargeHitStatusEffectOvercharged
 - [ ] InterruptType
-- [ ] BooleanAttributes
+- [x] BooleanAttributes\*
 - [ ] CustomString
 - [ ] CustomString2
-- [ ] CustomValue
-- [ ] CustomValue2
+- [x] CustomValue\*
+- [x] CustomValue2\*
 - [ ] ForceWalkAnim
 - [ ] AttackAnimationSpeed
 - [ ] OnChargeHitSelfStatusEffect

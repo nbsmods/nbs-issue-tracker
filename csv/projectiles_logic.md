@@ -1,18 +1,19 @@
 # project_logic
-- [ ] Speed
+
+- [x] Speed
 - [ ] PreExplosionTimeMs
-- [ ] Radius
+- [x] Radius
 - [ ] IgnoreCloseWalls
-- [ ] Indirect
-- [ ] ConstantFlyTime
-- [ ] TriggerWithDelayMs
+- [x] Indirect
+- [x] ConstantFlyTime
+- [x] TriggerWithDelayMs
 - [ ] BouncePercent
 - [ ] DamageReduction
-- [ ] Gravity
-- [ ] EarlyTicks
+- [x] Gravity
+- [x] EarlyTicks
 - [ ] OnAllyHitActions
 - [ ] OnEnemyHitActions
-- [ ] AreaEffect2DamagePercent
+- [x] AreaEffect2DamagePercent
 - [ ] SpawnCharacter
 - [ ] AreaEffectTrailMinDistance
 - [ ] AreaEffectTrailInitialMinDistance
@@ -21,9 +22,9 @@
 - [ ] IsBouncing
 - [ ] DistanceAddFromBounce
 - [ ] MaxDistanceBounces
-- [ ] PiercesCharacters
-- [ ] PiercesEnvironment
-- [ ] PiercesEnvironmentLikeButter
+- [x] PiercesCharacters
+- [x] PiercesEnvironment
+- [x] PiercesEnvironmentLikeButter
 - [ ] PushbackStrength
 - [ ] PushbackType
 - [ ] OverridePushbackSpeed
@@ -34,8 +35,8 @@
 - [ ] ChainSpread
 - [ ] ChainTravelDistance
 - [ ] ExecuteChainSpecialCase
-- [ ] DamagePercentStart
-- [ ] DamagePercentEnd
+- [x] DamagePercentStart
+- [x] DamagePercentEnd
 - [ ] DamageChangeStartPromille
 - [ ] DamageChangeEndPromille
 - [ ] IgnoreDamageChangeForUltiCharge
@@ -47,7 +48,7 @@
 - [ ] ScaleEnd
 - [ ] AttractsPet
 - [ ] LifeStealPercent
-- [ ] PassesEnvironment
+- [x] PassesEnvironment
 - [ ] SuppressHealing
 - [ ] SuppressHealingTicks
 - [ ] ConsumableShield
@@ -56,13 +57,13 @@
 - [ ] HealOwnPercent
 - [ ] GrapplesEnemy
 - [ ] KickBack
-- [ ] MinDistanceForSpread
+- [x] MinDistanceForSpread
 - [ ] IsFriendlyHomingMissile
-- [ ] BoomerangType
+- [x] BoomerangType
 - [ ] CanHitAgainAfterBounce
 - [ ] IsHomingMissile
 - [ ] UltiChargeChangePercent
-- [ ] TravelType
+- [x] TravelType\*
 - [ ] TravelTypeVariable
 - [ ] TravelTypeVariable2
 - [ ] IgnoreLevelBorder
@@ -71,7 +72,7 @@
 - [ ] HomeDistance
 - [ ] SteerLifeTime
 - [ ] DoNotForceShow
-- [ ] UniqueProperty
+- [x] UniqueProperty\*
 - [ ] CustomUniquePropertyValue
 - [ ] Zoffset
 - [ ] SuperChargeScalePercent

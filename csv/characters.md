@@ -1,51 +1,54 @@
 # characters
-- [ ] WeaponSkill
-- [ ] UltimateSkill
-- [ ] OverchargedUltimateSkill
-- [ ] Pet
+
+\*Implementation is not complete for all
+
+- [x] WeaponSkill
+- [x] UltimateSkill
+- [x] OverchargedUltimateSkill
+- [x] Pet
 - [ ] AltPet
 - [ ] MovementType
-- [ ] Speed
-- [ ] Hitpoints
+- [x] Speed
+- [x] Hitpoints
 - [ ] Traits
-- [ ] Components
+- [x] Components\*
 - [ ] HealthPromilleLostPerSecond
 - [ ] HealPercentChange
 - [ ] LifeTimeTicks
 - [ ] SkipDeploy
 - [ ] MeleeAutoAttackSplashDamage
-- [ ] DelayTicksFirstAttack
-- [ ] AutoAttackSpeedMs
-- [ ] AutoAttackDamage
-- [ ] AutoAttackBulletsPerShot
+- [x] DelayTicksFirstAttack
+- [x] AutoAttackSpeedMs
+- [x] AutoAttackDamage
+- [x] AutoAttackBulletsPerShot
 - [ ] AutoAttackMode
 - [ ] AutoAttackTicksBetweenBurstShots
-- [ ] AutoAttackProjectileSpread
-- [ ] AutoAttackProjectile
+- [x] AutoAttackProjectileSpread
+- [x] AutoAttackProjectile
 - [ ] OverchargedAutoAttackProjectile
-- [ ] AutoAttackRange
+- [x] AutoAttackRange
 - [ ] RegeneratePerSecond
 - [ ] LowPriorityTarget
 - [ ] UltiUses
 - [ ] UltiChargeInitial
-- [ ] UltiChargeMul
-- [ ] UltiChargeUltiMul
-- [ ] OverchargeChargeMul
+- [x] UltiChargeMul
+- [x] UltiChargeUltiMul
+- [x] OverchargeChargeMul
 - [ ] OverchargePassiveChargeMul
-- [ ] OverchargeChargeActiveMul
+- [x] OverchargeChargeActiveMul
 - [ ] OverchargeDamagePercent
 - [ ] OverchargeSpeedPercent
 - [ ] OverchargeShieldPercent
 - [ ] Type
-- [ ] IsNeutral
+- [x] IsNeutral
 - [ ] IsBossPet
-- [ ] CarryableType
+- [x] CarryableType
 - [ ] DefaultSkin
 - [ ] ManualRotations
 - [ ] StatusEffect
-- [ ] AreaEffect
+- [x] AreaEffect
 - [ ] AttackStartEffectOffset
-- [ ] TwoWeaponAttackEffectOffset
+- [x] TwoWeaponAttackEffectOffset
 - [ ] ShadowScaleX
 - [ ] ShadowScaleY
 - [ ] ShadowX
@@ -60,8 +63,8 @@
 - [ ] BattleIntroScale
 - [ ] ShowPetInHeroScreen
 - [ ] AlwaysShowWithPet
-- [ ] HeroScreenXOffset
-- [ ] FlyingHeight
+- [x] CollisionRadius
+- [x] FlyingHeight
 - [x] ProjectileStartZ
 - [ ] StopMovementAfterMS
 - [ ] WaitMS
@@ -79,13 +82,13 @@
 - [ ] ExtraMinions
 - [ ] PetAutoSpawnDelay
 - [ ] PetSpawnCount
-- [ ] PowerLevelsType
+- [x] PowerLevelsType
 - [ ] PowerLevelsSpeedBuff
 - [ ] OrbitingRadius
 - [ ] OrbitingAngularSpeed
-- [ ] UniqueProperty
-- [ ] UniquePropertyValue1
-- [ ] UniquePropertyValue2
+- [x] UniqueProperty\*
+- [x] UniquePropertyValue1\*
+- [x] UniquePropertyValue2\*
 - [ ] ArenaOverrideMaxHpBuff
 - [ ] ArenaOverrideDmgBuff
 - [ ] ArenaOverrideSpeedBuff

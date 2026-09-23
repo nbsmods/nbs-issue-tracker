@@ -1,9 +1,9 @@
 # accessories
-- [ ] Type
+- [x] Type
 - [ ] SubType
-- [ ] Cooldown
+- [x] Cooldown
 - [ ] ActivationDelay
-- [ ] ActiveTicks
+- [x] ActiveTicks
 - [ ] ShowCountdown
 - [ ] StopMovement
 - [ ] StopPetForDelay
@@ -13,7 +13,7 @@
 - [ ] StatusEffectAlly
 - [ ] StatusEffectEnemy
 - [ ] StatusEffectSelf
-- [ ] AreaEffect
+- [x] AreaEffect
 - [ ] PetAreaEffect
 - [ ] InterruptsAction
 - [ ] AllowStunActivation
@@ -43,5 +43,5 @@
 - [ ] TargetAlreadyActiveText
 - [ ] RequiresSpecificActionText
 - [ ] CustomBlockText
-- [ ] Skill
+- [x] Skill
 - [ ] BuddyCharacterComponent

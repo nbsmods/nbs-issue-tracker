@@ -1,0 +1,53 @@
+name: "General bug"
+description: A bug **not related to battle**
+title: "Bug: "
+labels: ["not battle"]
+
+body:
+  - type: checkboxes
+    attributes:
+      label: Before you submit...
+      description: "We need to know if this issue is in scope, please use the checklist below:"
+      options:
+        - label: "I am using the latest version of NBS (v59 and v64 are no longer supported)"
+          required: true
+        - label: "I have searched the existing issues"
+          required: true
+        - label: "I ticked the above checkboxes without actually checking them"
+          required: false
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting an issue!
+        Please give a basic overview on the issue below
+        Images and videos aren't required, but are appreciated
+  - type: textarea
+    id: our-behaviour
+    attributes:
+      label: What are we doing?
+      description: |
+        What happens in our mod that's incorrect, if possible include images / videos.
+        Please include a steps to reproduce if required.
+      placeholder: Tell us what you see!
+      value: "Current behaviour:"
+    validations:
+      required: true
+  - type: textarea
+    id: prod-behaviour
+    attributes:
+      label: How should it actually behave?
+      description: |
+        What do you think should happen instead? You can include pictures from prod if applicable.
+      placeholder: Tell us what you see!
+      value: "Expected behaviour:"
+    validations:
+      required: true
+  - type: textarea
+    id: info
+    attributes:
+      label: Any additional info?
+      description: |
+        Anything that may be useful for debugging.
+        Most applicable for NBS devs creating issues here.
+      placeholder: "N/A"
+      value: "Additional Info:"

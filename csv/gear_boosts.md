@@ -1,8 +1,11 @@
 # gear_boosts
+
+\*Not all types are implemented
+
 - [x] Rarity
 - [x] ExtraHerosAvailableTo
 - [x] HeroDeprecated
-- [x] LogicType (some)
+- [x] LogicType\*
 - [ ] ModifierValue
 - [ ] ModifierTypes
 

@@ -1,11 +1,16 @@
 # game_mode_variations
-- [ ] MaxScore
+
+\*Implementation is not complete for all
+
+^Unknown if is used in logic
+
+- [x] MaxScore\*
 - [ ] MaxDamage
 - [ ] MaxHealing
 - [ ] CustomValue1
 - [ ] PlayerCollectBountyStars
-- [ ] PlayersCollectPowerCubes
-- [ ] MaxPowerCubesToDrop
+- [x] PlayersCollectPowerCubes
+- [x] MaxPowerCubesToDrop
 - [ ] PlayersCollectBolts
 - [ ] ItemClaimDelaySeconds
 - [ ] IsPlayedOnVeryLargeMap
@@ -16,7 +21,7 @@
 - [ ] HasCornerScoreForBothTeams
 - [ ] IsBattleRoyale
 - [ ] HasAntiTeamingFeatures
-- [ ] HasBoxesWithPowerCubes
+- [x] HasBoxesWithPowerCubes
 - [ ] HasOffScreenIndicator
 - [ ] HasOffScreenBossIndicator
 - [ ] IsCoop
@@ -29,25 +34,23 @@
 - [ ] HealthBarsFillUp
 - [ ] HasTwoBases
 - [ ] IsSoloModeWithRespawns
-- [ ] IsSoloMode
+- [x] IsSoloMode
 - [ ] GetHeroSelectionCount
 - [ ] HasTimerAndCanEndBeforeTimerRunsOut
-- [ ] ShouldSpawnCloseToTeammate
+- [x] ShouldSpawnCloseToTeammate
 - [ ] HasSpawnProtectionInTheStart
 - [ ] GiveMVPAtGameEnd
 - [ ] HasWinBasedExp
-- [ ] PanCameraToCenterWhenGameOver
-- [ ] RevealMapWhenGameOver
 - [ ] FlashHealthBar
 - [ ] IsGoalBasedMode
 - [ ] ShowTextOnScore
-- [ ] ModeHasCarryables
+- [x] ModeHasCarryables\*
 - [ ] AllowAttackWhileCarrying
 - [ ] IsHorizontalMode
-- [ ] BattleTicks
+- [x] BattleTicks
 - [ ] HasOvertime
 - [ ] OvertimeHasGoldenGoal
-- [ ] RespawnSeconds
+- [x] RespawnSeconds
 - [ ] ModeHasSecondaryRespawnPoints
 - [ ] ModeGameObjectCount
 - [ ] RoundResetsWhenObjectiveIsMissing
@@ -60,32 +63,25 @@
 - [ ] PreventWallsOnBase
 - [ ] HasMultipleDifficulties
 - [ ] IsTypeOfBossFight
-- [ ] IsSpecialEvent
-- [ ] IsBlockedFromFriendlyRoom
-- [ ] AreTeamsDisabledIn
+- [ ] IsSpecialEvent^
 - [ ] BossCharacterData
 - [ ] BossCharacterData2
 - [ ] BossCharacterData3
 - [ ] UIBossCharacter
 - [ ] BossShareHP
 - [ ] BossModeEndType
-- [ ] NumberOfRounds
+- [x] NumberOfRounds\*
 - [ ] MoveDeathNotificationsDown
 - [ ] ModeCarryable
-- [ ] TeamSize
-- [ ] TeamCount
-- [ ] ModeHasFillingPoison
-- [ ] BattleLoad
-- [ ] BattleLoadCoop
+- [x] TeamSize
+- [x] TeamCount
+- [x] ModeHasFillingPoison\*
+- [ ] BattleLoad^
+- [ ] BattleLoadCoop^
 - [ ] HasTokensToHold
 - [ ] IsMatchmakingBasedOnAverageHeroScore
-- [ ] IsNotRewardingTrophies
-- [ ] IsAllowDuplicateHeroes
 - [ ] TrophyGainedMultiplierPercent
 - [ ] TrophyLostMultiplierPercent
-- [ ] BattleMusicOverride
-- [ ] BattleEndPopupInfoCardsLayout
-- [ ] BattleEndPopupBrawlerContainersLayout
 - [ ] StunOnDeath
 - [ ] BlockMovementDuringCardSelection
 - [ ] TPInterestType

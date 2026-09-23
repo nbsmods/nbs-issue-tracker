@@ -1,17 +1,20 @@
 # area_effects_logic
-- [ ] TimeMs
+
+\*Custom value is not correct for all effects which use it
+
+- [x] TimeMs
 - [ ] MinTimeMs
-- [ ] Radius
-- [ ] Damage
+- [x] Radius
+- [x] Damage
 - [ ] DontOverrideDmg
 - [ ] DamageScaleType
-- [ ] CustomValue
+- [x] CustomValue\*
 - [ ] CustomValue2
-- [ ] Type
-- [ ] StatusEffectSelf
-- [ ] StatusEffectAlly
-- [ ] StatusEffectEnemy
-- [ ] StatusEffectTickInterval
+- [x] Type
+- [x] StatusEffectSelf
+- [x] StatusEffectAlly
+- [x] StatusEffectEnemy
+- [x] StatusEffectTickInterval
 - [ ] ActionsSelf
 - [ ] ActionsAlly
 - [ ] ActionsEnemy

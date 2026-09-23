@@ -1,12 +1,15 @@
 # items
-- [ ] AlignToTiles
-- [ ] Value
-- [ ] Value2
-- [ ] Value3
+
+\*Implementation is not complete for all
+
+- [x] AlignToTiles
+- [x] Value\*
+- [x] Value2\*
+- [x] Value3\*
 - [ ] Lifetime
 - [ ] StatusEffectAlly
 - [ ] StatusEffectEnemy
-- [ ] DisappearingTime
+- [x] DisappearingTime
 - [ ] TriggerRangeSubTiles
 - [ ] TriggerAreaEffect
 - [ ] DestroyAreaEffect

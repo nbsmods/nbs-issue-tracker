@@ -2,7 +2,7 @@
 - [ ] Values
 - [ ] BoolValues
 - [ ] Projectiles
-- [ ] AreaEffects
+- [x] AreaEffects
 - [ ] Characters
 - [ ] Skills
 - [ ] StatusEffects
