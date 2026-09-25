@@ -32,7 +32,7 @@ If a column is marked done, but behaving incorrectly please make an issue.
 Shelly | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✔
 Nita | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | N/A | ✘
 Colt | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Bull | ✔ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Bull | ✔ | ✔* | ✘ | ✘ | ✔ | ✘ | ✘ | ✘
 Brock | ✔ | ✔ | ✘ | ✘ | ✘ | ✔ | ✘ | ✘
 El Primo | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Barley | ✔ | ✔* | ✔* | ✘ | ✔ | ✘ | N/A | ✔*
