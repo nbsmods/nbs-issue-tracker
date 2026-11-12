@@ -4,7 +4,7 @@ The public issue and progress tracker for NBS
 
 Please note: at this time we are only accepting bug reports for brawlers we have marked as done, please ensure you follow the checklist when reporting a bug
 
-To begin, please select a form [here](https://github.com/nbsmod/nbs-issue-tracker/issues/new/choose)
+To begin, please select a form [here](https://github.com/nbsmods/nbs-issue-tracker/issues/new/choose)
 
 ### For modders:
 
@@ -27,7 +27,7 @@ If a column is marked done, but behaving incorrectly please make an issue.
 * ✘ - Not done, not accepting issues (this is to prevent the issue tracker from being flooded)
 
 <!-- ✔✘ -->
-| Brawler | <img width="50" height="50" alt="aim" src="https://media.ffycdn.net/eu/supercell/WqMN4ujMDHtg5SkXk8dT.png?width=300" /> | <img width="50" height="50" alt="super" src="https://media.ffycdn.net/eu/supercell/QxEL8yYxnLVew3p3TYXz.png?width=300" /> | <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/f5b6cc3e-e301-48fb-91c6-5293b2b0be1e" /> | <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/c0498061-60a2-4684-9a34-1e8cec387920" /> | <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/2c9f10a6-ae94-4a0e-ba54-feeecad9cee4" /> | <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/aece9947-e509-4e63-8a92-6190a39907c6" /> | <img width="50" height="65" alt="Image" src="https://github.com/user-attachments/assets/ec063bc2-02d7-4505-b68f-358aaafc5d08" /> |
+| Brawler | <img width="50" height="50" alt="aim" src="https://media.ffycdn.net/eu/supercell/WqMN4ujMDHtg5SkXk8dT.png?width=300" /> | <img width="50" height="50" alt="super" src="https://media.ffycdn.net/eu/supercell/QxEL8yYxnLVew3p3TYXz.png?width=300" /> | <img width="50" height="50" alt="Image" src="assets/gadget-1.png" /> | <img width="50" height="50" alt="Image" src="assets/gadget-2.png" /> | <img width="50" height="50" alt="Image" src="assets/star-power-1.png" /> | <img width="50" height="50" alt="Image" src="assets/star-power-2.png" /> | <img width="50" height="65" alt="Image" src="assets/hypercharge.png" /> |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 Shelly | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✔
 Nita | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
@@ -145,7 +145,7 @@ Sirius | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘
 
 Note: for convenience brawlers who do not have a buffy are marked with ✘
 
-| Brawler | <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/f5b6cc3e-e301-48fb-91c6-5293b2b0be1e" /> | <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/c0498061-60a2-4684-9a34-1e8cec387920" /> | <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/2c9f10a6-ae94-4a0e-ba54-feeecad9cee4" /> | <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/aece9947-e509-4e63-8a92-6190a39907c6" /> | <img width="50" height="65" alt="Image" src="https://github.com/user-attachments/assets/ec063bc2-02d7-4505-b68f-358aaafc5d08" /> |
+| Brawler | <img width="50" height="50" alt="Image" src="assets/gadget-1.png" /> | <img width="50" height="50" alt="Image" src="assets/gadget-2.png" /> | <img width="50" height="50" alt="Image" src="assets/star-power-1.png" /> | <img width="50" height="50" alt="Image" src="assets/star-power-2.png" /> | <img width="50" height="65" alt="Image" src="assets/hypercharge.png" /> |
 |:-|:-:|:-:|:-:|:-:|:-:|
 Shelly | ✘ | ✘ | ✘ | ✘ | ✘ 
 Nita | ✘ | ✘ | ✘ | ✘ | ✘ 
@@ -263,7 +263,7 @@ Sirius | ✘ | ✘ | ✘ | ✘ | ✘
 
 A select number of brawlers have a hidden third star power
 
-| Brawler | <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/6cd2caf4-1da5-45b3-b886-58f93da0ed89" /> |
+| Brawler | <img width="50" height="50" alt="Image" src="assets/star-power-3.png" /> |
 |:-|:-:|
 Shelly | ✘
 Colt | ✘
