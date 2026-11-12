@@ -445,6 +445,7 @@ Possibly version specific:
 - [ ] Easter Eggs
 - [ ] Save the Frogs
 - [ ] Instant Overtime
+- [ ] TRIPLE FUSION
 
 No/weird TID:
 - [ ] ??? (49, BH) - Banaanae note: BigHead
@@ -452,6 +453,8 @@ No/weird TID:
 - [ ] (Placeholder) (SpeedEXP)
 - [ ] GhostRespawn
 - [ ] QaGladiatorArenaExtended
+- [ ] Unused (BlobSkills)
+- [ ] 70-75
 
 Brawl Ball:
 - [ ] Haunted Ball
