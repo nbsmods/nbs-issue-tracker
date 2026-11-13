@@ -30,27 +30,27 @@ If a column is marked done, but behaving incorrectly please make an issue.
 | Brawler | <img width="50" height="50" alt="aim" src="https://media.ffycdn.net/eu/supercell/WqMN4ujMDHtg5SkXk8dT.png?width=300" /> | <img width="50" height="50" alt="super" src="https://media.ffycdn.net/eu/supercell/QxEL8yYxnLVew3p3TYXz.png?width=300" /> | <img width="50" height="50" alt="Image" src="assets/gadget-1.png" /> | <img width="50" height="50" alt="Image" src="assets/gadget-2.png" /> | <img width="50" height="50" alt="Image" src="assets/star-power-1.png" /> | <img width="50" height="50" alt="Image" src="assets/star-power-2.png" /> | <img width="50" height="65" alt="Image" src="assets/hypercharge.png" /> |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 Shelly | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✔
-Nita | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Nita | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘
 Colt | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘
 Bull | ✔ | ✔* | ✘ | ✘ | ✔ | ✘ | ✘
 Brock | ✔ | ✔ | ✘ | ✘ | ✘ | ✔ | ✘
-El Primo | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+El Primo | ✔* | ✔ | ✘ | ✘ | ✘ | ✘ | ✘
 Barley | ✔ | ✔* | ✔* | ✘ | ✔ | ✘ | ✔*
 Poco | ✔ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘
-Rosa | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Rosa | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘
 Jessie | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔
 Dynamike | ✔* | ✔* | ✘ | ✘ | ✘ | ✘ | ✘
-Tick | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Tick | ✘ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘
 8-Bit | ✔ | ✔ | ✔* | ✘ | ✔ | ✔* | ✘
 Rico | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Darryl | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Darryl | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘
 Penny | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔
 Carl | ✔ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘
 Jacky | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Gus | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Bo | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Emz | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Stu | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Emz | ✘ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘
+Stu | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘
 Piper | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Pam | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Frank | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
@@ -60,11 +60,11 @@ Nani | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Edgar | ✘ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘
 Griff | ✔ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘
 Grom | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Bonnie | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Bonnie | ✔ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘
 Gale | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Colette | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Colette | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘
 Belle | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Ash | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Ash | ✘ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘
 Lola | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Sam | ✔* | ✔* | ✘ | ✘ | ✘ | ✘ | ✘
 Mandy | ✔ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘
@@ -78,10 +78,10 @@ Shade | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Meeple | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Trunk | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Bolt | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Mortis | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Mortis | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘
 Tara | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Gene | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Max | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Max | ✘ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘
 Mr. P | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Sprout | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Byron | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
@@ -89,7 +89,7 @@ Squeak | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Lou | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Ruffs | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Buzz | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Fang | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Fang | ✘ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘
 Eve | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Janet | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Otis | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
@@ -100,7 +100,7 @@ Willow | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Doug | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Chuck | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Charlie | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Mico | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Mico | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Melodie | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Lily | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Clancy | ✔* | ✔ | ✘ | ✘ | ✘ | ✘ | ✘
@@ -110,7 +110,7 @@ Ollie | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Lumi | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Finx | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Jae-yong | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Alli | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Alli | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Mina | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Ziggy | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Gigi | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
@@ -124,17 +124,17 @@ Vince | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Ray | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Ruby | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Spike | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Crow | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Crow | ✘ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘
 Leon | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Sandy | ✔* | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Amber | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Meg | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Surge | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Surge | ✘ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘
 Chester | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘
 Cordelius | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Kit | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Draco | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
-Kenji | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
+Kenji | ✔ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Pierce | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Nori | ✘ | ✘ | ✘ | ✘ | ✘ | ✘ | ✘
 Thunder Frogs | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔
