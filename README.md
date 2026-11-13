@@ -319,7 +319,7 @@ Normal:
 - [x] GemGrab2v2
 - [ ] PayloadSingle
 - [ ] Arena
-- [ ] BrawlBall2v2
+- [x] BrawlBall2v2
 - [ ] Knockout2v2
 - [x] KingOfHill2v2
 - [ ] BasketBrawl2v2
