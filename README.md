@@ -286,7 +286,7 @@ Normal:
 - [x] GemGrab
 - [x] Heist (no shield)
 - [x] Bounty
-- [ ] BrawlBall
+- [x] BrawlBall
 - [x] Showdown
 - [x] BigGame
 - [ ] RoboRumble
