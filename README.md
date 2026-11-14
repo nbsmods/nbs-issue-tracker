@@ -359,7 +359,7 @@ Normal:
 Disabled:
 - [x] LoneStar
 - [ ] BossFight_TownCrush
-- [ ] ProtectKing
+- [x] ProtectKing
 - [ ] Godzilla_TownCrush
 - [ ] GunGame
 - [ ] ShowdownLimbo
