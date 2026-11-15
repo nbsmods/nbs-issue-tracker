@@ -19,6 +19,7 @@ If a column is marked done, but behaving incorrectly please make an issue.
 - [Brawlers](#brawlers)
 - [Game modes](#game-modes)
 - [Modifiers](#modifiers)
+- [Issue fixes](#issue-fixes)
 
 ## Brawlers
 
@@ -35,7 +36,7 @@ Colt | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘
 Bull | ✔ | ✔* | ✘ | ✘ | ✔ | ✘ | ✘
 Brock | ✔ | ✔ | ✘ | ✘ | ✘ | ✔ | ✘
 El Primo | ✔* | ✔ | ✘ | ✘ | ✘ | ✘ | ✘
-Barley | ✔ | ✔* | ✔* | ✘ | ✔ | ✘ | ✔*
+Barley | ✔ | ✔ | ✔* | ✘ | ✔ | ✘ | ✔
 Poco | ✔ | ✔* | ✘ | ✘ | ✘ | ✘ | ✘
 Rosa | ✔ | ✔ | ✘ | ✘ | ✘ | ✘ | ✘
 Jessie | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔
@@ -465,3 +466,17 @@ Takedown Modifiers:
 - [ ] Boss Lasers
 - [ ] Boss Chain Lightning
 - [ ] Boss Rockets
+
+## Issue fixes
+
+Implemented with regression coverage; in-game verification pending.
+
+- [x] [#8](https://github.com/nbsmods/nbs-issue-tracker/issues/8) Gem mine ground-gem limits
+- [x] [#16](https://github.com/nbsmods/nbs-issue-tracker/issues/16) Barley impact damage
+- [x] [#19](https://github.com/nbsmods/nbs-issue-tracker/issues/19) Barley super targeting while moving
+- [x] [#24](https://github.com/nbsmods/nbs-issue-tracker/issues/24) Barley hypercharge bush destruction
+- [x] [#27](https://github.com/nbsmods/nbs-issue-tracker/issues/27) Amber continuous-fire cadence
+- [x] [#28](https://github.com/nbsmods/nbs-issue-tracker/issues/28) Amber reload suppression while firing
+- [x] [#33](https://github.com/nbsmods/nbs-issue-tracker/issues/33) Teammate respawn bubble placement and following; team-alive regression coverage
+- [x] [#40](https://github.com/nbsmods/nbs-issue-tracker/issues/40) Ball pickup on dash completion
+- [ ] [#14](https://github.com/nbsmods/nbs-issue-tracker/issues/14) Fuse timing implemented; ground sliding/bouncing remains
