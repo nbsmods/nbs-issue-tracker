@@ -20,18 +20,6 @@ If a column is marked done, but behaving incorrectly please make an issue.
 - [Game modes](#game-modes)
 - [Modifiers](#modifiers)
 
-## Offline progression
-
-- **1.6.5:** Chaos Drops open with the in-game animation and can upgrade; fixed Starr Drops no longer offer upgrade chances; Starr and Chaos Drop rewards follow the final rarity. Quests rotate daily from a larger pool, have separate Season Quests, show the refresh timer and update live. The debug menu has a Brawl Pass category for tiers, passes and quests.
-- **1.6.4:** Starr Drops show upgrade chances again: tapping the star consumes a chance and can raise its rarity before it opens.
-- **1.6.3:** Brawl Pass boxes and Starr Drops use the in-game opening animation, and plain resources fly into the top counter instead of filling the screen.
-- **1.6.2:** Brawl Pass tiers bought with gems are saved, so their rewards can be claimed. Chaos Drops open (one to four rewards by rarity), and pins already owned give their coin alternative instead of hanging.
-- **1.6.1:** Brawl Pass rewards use the correct reveal screens: gems and credits no longer show up as XP doublers or blank drops.
-- Starr Drops roll their rarity and reward from the game's own drop tables; Mega Boxes open ten draws and merge them into one reveal per resource. Owned items fall back to the table's coin, credit or bling replacement. The box opening animations are not implemented.
-- Resource keys can be spent in the Vault for coins, power points and bling.
-- The brawler picked for the profile card is saved and shown after restarting.
-- Disabled external mods are skipped at startup and stay listed in the mods menu so they can be re-enabled.
-
 ## Brawlers
 
 * ✔ - Implemented, may not be perfect
